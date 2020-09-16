@@ -17,6 +17,7 @@ oc new-project example-bank
 ```
 cd example-bank/scripts/
 ./createappid.sh
+./createsecrets.sh
 ./deploy-db.sh
 ./installServerlessOperator.sh
 ```
