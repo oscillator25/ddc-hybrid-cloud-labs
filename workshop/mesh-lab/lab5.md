@@ -21,6 +21,7 @@ cd example-bank/scripts/
 ./deploy-db.sh
 ./installServerlessOperator.sh
 ```
+* Note: Verify the `creditdb` database pod is in Running state before running the SQL schema loader.
 
 Deploy front end service and SQL data schema.
 
