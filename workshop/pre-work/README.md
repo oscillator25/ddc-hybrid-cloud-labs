@@ -19,4 +19,6 @@ Ensure you have an IBM Cloud ID
 
 ## 3. Web-based terminal
 
+* Note: You can use any identity provider to log in to Skills Network Labs (does not have to be IBM Cloud).
+
 ![Web-based terminal](../.gitbook/generic/terminal.jpg)
