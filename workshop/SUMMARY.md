@@ -61,8 +61,7 @@
 
 ### Service Mesh Workshop
 
-* [Lab](some-section/README.md)
-    * [ServiceMesh Lab](mesh-lab/lab5.md)
+* [ServiceMesh Lab](mesh-lab/lab5.md)
 
 ### Pipelines (Tekton) Workshop
 
