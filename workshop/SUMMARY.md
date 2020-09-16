@@ -61,10 +61,6 @@
 
 ### Service Mesh Workshop
 
-* [Lecture](some-section/README.md)
-    * [What is a service mesh?](some-exercise/README.md)
-    * [Istio](some-exercise/README.md)
-    * [IBMCloud specifics](some-exercise/README.md)
 * [Lab](some-section/README.md)
     * [ServiceMesh Lab](mesh-lab/lab5.md)
 
