@@ -11,12 +11,12 @@ containers:
   - image: <YOUR_DOCKER_HUB>/serverless-workshop-example:1.0
 ```
 
-The environment variables below does not need to change. The secret `bank-oidc-adminuser` that you created will be used by this serverless app. The secret `mobile-simulator-secrets` was created during the previous labs. The environment variable `TRANSACTION_SERVICE_URL` points to the transaction microservice from the previous lab as well.
+Verify the environment variables below. The secret `bank-oidc-adminuser-workshop` that you created will be used by this serverless app. The secret `mobile-simulator-secrets` was created during the previous labs. The environment variable `TRANSACTION_SERVICE_URL` points to the transaction microservice from the previous lab as well.
 
 ```text
 envFrom:
   - secretRef:
-    name: bank-oidc-adminuser
+    name: bank-oidc-adminuser-workshop
   - secretRef:
     name: mobile-simulator-secrets
 env:
