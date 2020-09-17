@@ -25,9 +25,9 @@
 ### Operator Workshop
 
 * [Lecture](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
+    * [Some Exercise](operators/README.md)
 * [Lab](some-section/README.md)
-    * [Lab 2](some-exercise/README.md)
+    * [Lab 2](operators/lab2.md)
 
 
 ### Microservice Workshop
