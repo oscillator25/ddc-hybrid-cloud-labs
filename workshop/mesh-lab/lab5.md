@@ -153,6 +153,9 @@ Set port 80 -> 8080, Edge, Redirect.  Default OpenShift certs can be used, or yo
 
 > Open up Kiali from App square to view traffic flow.
 
+![kiali](https://github.com/IBM/example-bank/blob/main/images/kiali.png)
+
+
 ### Badge
 
 After completion of the workshop, you can collect your [badge](https://www.youracclaim.com/org/ibm/badge/hybrid-cloud-conference-service-mesh-networker)
