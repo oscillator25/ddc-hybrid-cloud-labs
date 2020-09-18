@@ -27,7 +27,10 @@
 * [Lecture](some-section/README.md)
     * [Some Exercise](operators/README.md)
 * [Lab](some-section/README.md)
-    * [Lab 2](operators/lab2.md)
+    * [Install the PostgreSQL Operator](operators/lab2_install.md)
+    * [Create an instance of a database](operators/lab2_create.md)
+    * [Load the schema](operators/lab2_load.md)
+    * [Expose and verify](operators/lab2_expose.md)
 
 
 ### Microservice Workshop
