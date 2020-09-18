@@ -1,6 +1,6 @@
 # Part 2
 
-In this 
+In this part, we will deploy the images built in part 1 to our cluster.
 
 > Update YAML deployment manifests to point at correct images:
 
