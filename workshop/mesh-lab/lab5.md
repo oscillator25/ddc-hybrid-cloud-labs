@@ -152,3 +152,7 @@ Set port 80 -> 8080, Edge, Redirect.  Default OpenShift certs can be used, or yo
 > Use bank simulator. Note that all relevant pods have extra container.
 
 > Open up Kiali from App square to view traffic flow.
+
+### Badge
+
+After completion of the workshop, you can collect your [badge](https://www.youracclaim.com/org/ibm/badge/hybrid-cloud-conference-service-mesh-networker)
