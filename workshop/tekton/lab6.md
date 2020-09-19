@@ -1,6 +1,4 @@
 
-![Example Bank diagram](images/pattern-flow-diag.png)
-
 The back end of Example Bank is what this tutorial deploys through a pipeline. It consists of several microservices, including two Java services to process transactions and users respectively, a Node.js front end, and a PostgresSQL instance to keep track of it all.
 
 ## Steps for setting up a pipeline
@@ -18,7 +16,6 @@ oc login https://c100-e.us-east.containers.cloud.ibm.com:XXXXX --token=XXXXXXXXX
 Login and checkout Example Bank github repo.
 
 ```
-oc login
 ibmcloud login -u <account name>
 git clone https://github.com/IBM/example-bank.git
 oc new-project example-bank
@@ -62,8 +59,7 @@ That last command grants your service account access to the `example-bank` proje
 Tekton Pipelines are essentially a chain of of individual tasks. This tutorial uses serveral tasks, but you can install them all at once by cloning the main code pattern repo and then targeting the `pipelines/tasks` folder:
 
 ```bash
-git clone https://github.com/IBM/example-bank.git
-cd example-bank/pipeline
+cd ../pipeline
 oc apply -f tasks
 
 ```
@@ -108,24 +104,18 @@ Anytime you need to rescan and/or redeploy your code base, simply run that comma
 
 ## Results
 
-Now to enjoy the fruits of our labor! SonarQube has its own web interface. To get to it, navigate to the `financial-infra` project in the OpenShift web console. From the menu on the left, select **Networking** and then **Routes**:
+Now to enjoy the fruits of our labor! SonarQube has its own web interface. To get to it, navigate to the `bank-infra` project in the OpenShift web console. From the menu on the left, select **Networking** and then **Routes**:
 
-![loyalty_routes](images/loyalty_routes.png)
+![loyalty_routes](../.gitbook/generic/loyalty_routes.png)
 
 Select the URL for SonarQube and check out the stats for your installation:
 
-![sonarqube_results](images/sonar_overview.png)
+![sonarqube_results](../.gitbook/generic/sonar_overview.png)
 
 All green! Since there are no vulnerabilites here, you can click through to check out the stats for the lines of code:
 
-![sonar_loc](images/sonar_loc.png)
+![sonar_loc](../.gitbook/generic/sonar_loc.png)
 
 Back on the **Routes** page, you can also find the URL for the user interface of your freshly installed Example Bank app. For the `loyalty-mobile-simulator-service`:
 
-![simulator](images/loyalty_simulator.png)
-
-## Summary
-
-As you can see, Tekton Pipelines are powerful, allowing you to automate some significant workloads. Housed within the same cluster as your imaged code base, this cloud-native approach to continuous deployment can become seamless and hands-free.
-
-After practicing with this example, you can explore ideas for using pipelines in your own installations!
+![simulator](../.gitbook/generic/loyalty_simulator.png)
