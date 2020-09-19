@@ -1,1 +1,13 @@
-Deployment pipelines are designed to support complex workflows, including rollouts across multiple environments and canary rollouts and blue/green deployments.
+![crd](../.gitbook/generic/crd.png)
+
+## Task
+
+Defines a set of build steps such as compiling code, running tests, and building and deploying images.
+
+## Pipeline
+
+Defines the set of tasks that compose a pipeline.
+
+## PipelineRun
+
+Instantiates a Pipeline for execution with specific inputs, outputs, and execution parameters.
