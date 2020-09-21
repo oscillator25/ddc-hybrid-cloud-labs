@@ -73,7 +73,8 @@
     * [CI/CD](tekton/tooling.md)
     * [Explain tasks and pipelines](tekton/tasks.md)
 * [Lab 6](tekton/lab6/README.md)
-    * [Lab 6](tekton/lab6.md)
+    * [Cluster Setup](tekton/setup.md)
+    * [Install Pipeline](tekton/lab6.md)
 
 ### Workshop Resources
 
