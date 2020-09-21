@@ -56,7 +56,7 @@ pay attention to the result of this script: you will need the URL and ID for the
 
 ```
 ./createsecrets.sh
-``
+```
 
 ## 8. Apply schema
 
