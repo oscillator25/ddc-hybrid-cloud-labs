@@ -50,12 +50,12 @@ cd example-bank/scripts
 ./createappid.sh
 ```
 
-pay attention to the result of this script: you will need the URL and ID for the next command.  If you already have an instance of AppID, you can retrieve the values you need using `ibmcloud resource service-key appid-example-bank-credentials`
+pay attention to the result of this script: you will need the Management URL and API Key for the next command.  If you already have an instance of AppID, you can retrieve the values you need using `ibmcloud resource service-key appid-example-bank-credentials`
 
 ## 7. Create Secrets
 
 ```
-./createsecrets.sh
+./createsecrets.sh <ManagementURL> <APIKey>
 ```
 
 ## 8. Apply schema
