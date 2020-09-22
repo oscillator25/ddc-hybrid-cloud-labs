@@ -10,17 +10,16 @@ This series has an additional presentation.
 
 |  |
 | :--- |
-| [Installing OpenShift Serverless](serverless/lab/installing-openshift-serverless.md) |
-| [Installing Knative Serving](serverless/lab/installing-knative-serving.md) |
-| [Clone the repo](serverless/lab/clone-the-repo.md) |
-| [Create an admin scoped user](serverless/lab/create-an-admin-scoped-user.md) |
-
-| [Building the example serverless application](serverless/lab/building-the-example-serverless-application.md) |
-| [Configure Deployment file](serverless/lab/configure-deployment-file.md) |
-| [Deploying to OpenShift Serverless](serverless/lab/deploying-to-openshift-serverless.md) |
-| [Test the Serverless App](serverless/lab/test-the-serverless-app.md) |
-| [Modify Serverless App](serverless/lab/modify-serverless-app.md) |
-| [Conclusion](serverless/lab/conclusion.md) |
+| [Installing OpenShift Serverless](installing-openshift-serverless.md) |
+| [Installing Knative Serving](installing-knative-serving.md) |
+| [Clone the repo](clone-the-repo.md) |
+| [Create an admin scoped user](create-an-admin-scoped-user.md) |
+| [Building the example serverless application](building-the-example-serverless-application.md) |
+| [Configure Deployment file](configure-deployment-file.md) |
+| [Deploying to OpenShift Serverless](deploying-to-openshift-serverless.md) |
+| [Test the Serverless App](test-the-serverless-app.md) |
+| [Modify Serverless App](modify-serverless-app.md) |
+| [Conclusion](conclusion.md) |
 
 
 ## Credits
