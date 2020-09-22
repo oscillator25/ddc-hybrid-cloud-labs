@@ -1,42 +1,38 @@
 
-## IBM Developer Interactive Conference - Lab Stream
+## Digital Developer Conference Hybrid Cloud - Lab Stream
 
 ![banner](.gitbook/generic/ddc_header.png)
 
-Welcome to our conference! In this set of workshops we'll be using discussing various concepts of Build Smart Build Secure all while setting up an example application. The goals of this workshop are:
+Welcome to our conference! In this set of workshops we'll be using discussing various concepts of Build Smart Build Secure all while setting up an example application. The goals of these workshops are:
 
-* Goals!
+* Learn how to use IBM Cloud App ID
+* Use Operators in OpenShift OperatorHub
+* Build and Deploy microservices in OpenShift
+* Install and use OpenShift Serverless and OpenShift Service Mesh
 * Have fun!
 
 ### About this conference
 
-The introductory page of the workshop is broken down into the following sections:
+During the conference you'll learn how to use open source technologies, frameworks, and platforms like Kubernetes, Tekton, and Red Hat® OpenShift® on IBM Cloud® to support your application modernization or cloud migration skills, through sessions on application development and DevOps implementation, plus hands-on labs.
 
-* [Agenda](#agenda)
-* [Compatibility](#compatibility)
-* [Technology Used](#technology-used)
-* [Credits](#credits)
-* [Threat Modeling and Identity Management](#threat-modeling-and-identity-management)
-* [Operator Workshop](#operator-workshop)
-* [Microservice-Workshop](#microservice-workshop)
+Hands-on Lab track:
 
-## Agenda
+* [1. Threat Modeling and Identity Management](appid/threat-modeling.md)
+* [2. Operator Workshop](operators/README.md)
+* [3. Microservice Workshop](microservices/introduction.md)
+* [4. Serverless Workshop](serverless/introduction/example-bank-app-architecture.md)
+* [5. Service Mesh Workshop](mesh-lab/lab5.md)
+* [6. Pipelines (Tekton) Workshop](tekton/intro.md)
 
-|   |   |
-| - | - |
-| [Exercise 0: Pre-work](pre-work/README.md) | Pre-work for the project |
-| [Exercise 1: Some Exercise](some-exercise/README.md) | Exercise to do the thing |
+We have a dedicated Slack channel for you to ask questions or for help in our workshops:
 
-## Compatibility
+**#ddc-hybrid-labs**
 
-This workshop has been tested on the following platforms:
-
-* **osName**: version X, version Y
-
-## Technology Used
-
-* Brief Description
+*You should have received the invitation to the Digital Developer Conference workspace in your email.*
 
 ## Credits
 
-* [Full Name](https://github.com/githubid)
+* [@AnthonyAmanse](https://twitter.com/AnthonyAmanse)
+* [@antonmc](https://twitter.com/antonmc)
+* [@olaph5](https://twitter.com/olaph5)
+* [@yankoyfman](https://twitter.com/yankoyfman)
