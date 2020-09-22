@@ -17,12 +17,12 @@ During the conference you'll learn how to use open source technologies, framewor
 
 Hands-on Lab track:
 
-* [1. Threat Modeling and Identity Management](appid/threat-modeling.md)
-* [2. Operator Workshop](operators/README.md)
-* [3. Microservice Workshop](microservices/introduction.md)
-* [4. Serverless Workshop](serverless/introduction/example-bank-app-architecture.md)
-* [5. Service Mesh Workshop](mesh-lab/lab5.md)
-* [6. Pipelines (Tekton) Workshop](tekton/intro.md)
+1. [Threat Modeling and Identity Management](appid/threat-modeling.md)
+2. [Operator Workshop](operators/README.md)
+3. [Microservice Workshop](microservices/introduction.md)
+4. [Serverless Workshop](serverless/introduction/example-bank-app-architecture.md)
+5. [Service Mesh Workshop](mesh-lab/lab5.md)
+6. [Pipelines (Tekton) Workshop](tekton/intro.md)
 
 We have a dedicated Slack channel for you to ask questions or for help in our workshops:
 
