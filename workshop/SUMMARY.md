@@ -76,10 +76,6 @@
     * [Cluster Setup](tekton/lab6/setup.md)
     * [Install Pipeline](tekton/lab6.md)
 
-### Workshop Resources
-
-* [Instructor Guide](admin-guide/README.md)
-
 ### Resources
 
 * [IBM Developer](https://developer.ibm.com)
