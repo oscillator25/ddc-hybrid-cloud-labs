@@ -25,7 +25,7 @@
 ### Operator Workshop
 
 * [Lecture](some-section/README.md)
-    * [Some Exercise](operators/README.md)
+    * [Introduction](operators/README.md)
 * [Lab 2](some-section/README.md)
     * [Install the PostgreSQL Operator](operators/lab2_install.md)
     * [Create an instance of a database](operators/lab2_create.md)
