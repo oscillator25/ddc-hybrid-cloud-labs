@@ -10,8 +10,8 @@ This series has an additional presentation.
 
 |  |
 | :--- |
-| [Part 1](../part1.md) |
-| [Part 2](../part2.md) |
+| [Cluster Setup](tekton/lab6/setup.md) |
+| [Install Pipeline](tekton/lab6.md) |
 
 
 ## Credits
