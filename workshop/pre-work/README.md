@@ -20,7 +20,7 @@ luster that was pre-created for the purpose of the workshop. The cluster will be
 
 * Open the URL that was provided to you by the instructor to access your cluster.
 
-![Welcome to IBM Cloud](../.gitbook/images/grant-cluster/welcome-to-ibm-cloud.png)
+![Welcome to IBM Cloud](../.gitbook/generic/cluster.jpg)
 
 * Enter the workshop code provided by the workshop instructor and your IBM Cloud account IBM id. Select the terms and conditions checkbox and click the **`Submit`** button
 
