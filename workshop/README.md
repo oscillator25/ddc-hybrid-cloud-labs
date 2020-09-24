@@ -36,3 +36,8 @@ We have a dedicated Slack channel for you to ask questions or for help in our wo
 * [@antonmc](https://twitter.com/antonmc)
 * [@olaph5](https://twitter.com/olaph5)
 * [@yankoyfman](https://twitter.com/yankoyfman)
+
+### Many thanks to our testers!
+
+* [Shikha Maheshwari](https://developer.ibm.com/profiles/shikha.mah/)
+* [Muralidhar Chavan](https://developer.ibm.com/profiles/muralidhar.chavan/)
