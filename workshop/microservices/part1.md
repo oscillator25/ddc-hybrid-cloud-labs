@@ -16,7 +16,7 @@ $ cd example-bank/scripts
 
 Log in your IBM Cloud account with the `ibmcloud` cli
 
-*Make sure to use your personal account when it asks you*
+*Make sure to use your personal account when it asks you.*
 
 ```text
 $ ibmcloud login -u YOUR_IBM_CLOUD_EMAIL
