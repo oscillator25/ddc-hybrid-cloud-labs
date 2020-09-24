@@ -4,7 +4,7 @@
 
 Create one with a name of **appid-example-bank** using the IBM Cloud dashboard https://cloud.ibm.com/catalog/services/appid
 
-**NOTE: Make sure you are using your personal account**
+**NOTE: Make sure you are using your personal account.**
 
 ![IBM Cloud App ID Creation](../.gitbook/generic/personal_account.png)
 
